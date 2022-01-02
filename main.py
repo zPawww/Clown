@@ -12,11 +12,9 @@ import asyncio
 from discord import Permissions, embeds
 from colorama import Fore, Style
 import random
-import time
 import sys
 from webserver import keep_alive
 from requests import get
-import discord
 from discord import FFmpegPCMAudio
 from discord import client
 from discord.ext import commands
